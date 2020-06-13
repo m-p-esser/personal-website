@@ -58,5 +58,5 @@ My [personal github account](https://github.com/m-p-esser) hosts my hobby develo
 
 ### Blog
 
-I write a data science blog at [blm.io](http://blm.io/blog) where I apply Python to open datasets and write-up the results.
+I write a data science blog at [the-data-explorer.herokuapp.com](https://the-data-explorer.herokuapp.com/blog/) where I apply Python to open datasets and write-up the results.
 
