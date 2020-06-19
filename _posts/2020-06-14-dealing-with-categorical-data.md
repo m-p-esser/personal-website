@@ -8,7 +8,7 @@ categories: machine-learning
 tags: ['jupyter-notebook', 'encoding', 'categorical-variables', 'python', 'feature-engineering', 'data-preperation']
 toc: true
 toc_label: Table of Contents
-last_modified_at: 2016-03-09T16:20:02-05:00
+last_modified_at: 2020-06-14T16:20:02-05:00
 ---
 
 

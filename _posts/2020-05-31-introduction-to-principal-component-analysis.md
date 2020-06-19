@@ -8,7 +8,7 @@ categories: machine-learning
 tags: ['jupyter-notebook', 'principal-component-analysis', 'pca', 'categorical-variables', 'dimensionality-reduction','python', 'feature-extraction', 'data-preperation']
 toc: true
 toc_label: Table of Contents
-last_modified_at: 2019-12-30T16:20:02-05:00
+last_modified_at: 2020-05-31T16:20:02-05:00
 ---
 
 As you might be well aware of Big Data isn't going anywhere anytime soon. Big Data Analytics, an active research area which is concerned with analyzing large scale, fast paced and varying types of data will stay a challenging field.
