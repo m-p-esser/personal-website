@@ -10,7 +10,7 @@ Junior Consultant for Data Science and Master in Market Research
 
 ## Currently
 
-I'm currently working as a consultant for Data Science at KI Performance GmbH which is an IT consulting company that offers solutions in a variety of data centric fields. I’m working in the department for Machine Learning and Artifical Intelligence.
+I'm currently working as a consultant for Data Science at KI Performance GmbH which is an IT consulting company that offers solutions in a variety of data centric fields. I’m working in the department for Machine Learning and Artifical Intelligence. I would like to point out that the views presented on this blog are my own and in no way affiliated with my employer.
 
 ## Employment
 
@@ -24,7 +24,7 @@ __KI performance GmbH (Cologne)__ Master student
 __REWE Deutscher Supermrkt AG & Co. KGaA (Cologne)__ Working student Data Analytics / Data Science
 
 `2016/10 - 2018/06`
-__Various Market Research institutes__ Working student in Quantitative / Qualitative Market Research
+__Various Market Research institutes (Cologne)__ Working student in Quantitative / Qualitative Market Research
 
 ## Education
 
@@ -37,10 +37,10 @@ __Hochschule Wismar__ Business Administration (Bachelor of Arts) with focus on M
 ## Technical skills
 
 * Python
-* SQL
+* SQL (Basics)
 * Microsoft PowerBI
 * UiPath (RPA)
-* Git
+* Git (Basics)
 * Azure
 
 ## Areas of expertise
