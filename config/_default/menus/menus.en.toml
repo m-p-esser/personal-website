@@ -1,6 +1,6 @@
 [[navbar]]
   identifier = "cv"
-  name = "Curricum Vitae"
+  name = "Curriculum Vitae"
   url = "/cv/"
   weight = 1
 [[navbar]]
