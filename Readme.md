@@ -2,7 +2,7 @@
 
 Hello, this is my personal website build with [Hugo](https://gohugo.io/) and the extraordinary [Monochrome](https://themes.gohugo.io/themes/hugo-theme-monochrome/) theme.
 
-Visit my website on (marcphilippesser.com)[https://marcphilippesser.com/]. I write about Data Science topics in my [blog](http://marcphilippesser.com/blog/)
+Visit my website on [marcphilippesser.com](https://marcphilippesser.com). I write about Data Science topics in my [blog](http://marcphilippesser.com/blog/)
 
 ## Directory Structure of this Repo
 For reference check: https://gohugo.io/getting-started/directory-structure/
