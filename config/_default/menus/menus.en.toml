@@ -1,0 +1,15 @@
+[[navbar]]
+  identifier = "cv"
+  name = "Curricum Vitae"
+  url = "/cv/"
+  weight = 1
+[[navbar]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 2
+[[navbar]]
+  identifier = "project"
+  name = "Projects"
+  url = "/project/"
+  weight = 3
