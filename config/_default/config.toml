@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "http://marcphilippesser.com/"
 languageCode = "en"
-title = "Marc-Philipp Esser | Personal Website"
+title = "Marc-Philipp Esser | Data Science"
 theme = "hugo-theme-monochrome"
 defaultContentLanguage = "en"
 enableEmoji = true
